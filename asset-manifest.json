@@ -11,8 +11,8 @@
     "static/js/4.4c5a3929.chunk.js": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/4.4c5a3929.chunk.js",
     "static/js/4.4c5a3929.chunk.js.map": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/4.4c5a3929.chunk.js.map",
     "main.css": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/css/main.208db95f.chunk.css",
-    "main.js": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/main.0701b51f.chunk.js",
-    "main.js.map": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/main.0701b51f.chunk.js.map",
+    "main.js": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/main.21c293a5.chunk.js",
+    "main.js.map": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/main.21c293a5.chunk.js.map",
     "runtime-main.js": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/runtime-main.245b4a2d.js",
     "runtime-main.js.map": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/js/runtime-main.245b4a2d.js.map",
     "static/css/7.f3f01324.chunk.css": "https://yuyumoko.github.io/genshin-gacha-analyzer/static/css/7.f3f01324.chunk.css",
@@ -51,6 +51,6 @@
     "static/css/7.f3f01324.chunk.css",
     "static/js/7.57316b4a.chunk.js",
     "static/css/main.208db95f.chunk.css",
-    "static/js/main.0701b51f.chunk.js"
+    "static/js/main.21c293a5.chunk.js"
   ]
 }
