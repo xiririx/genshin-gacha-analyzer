@@ -27,7 +27,7 @@ export const LoadPage: FC<LoadPageProps> = function ({ onLoad }) {
   const params = qs.parse(document.location.search, {ignoreQueryPrefix: true})
   const uid = params.uid
   // const host = "http://127.0.0.1:7701"
-  const host = "http://114.219.35.114:9222"
+  const host = "//114.219.35.114:9222"
   if (uid) {
     fetch(`${host}/genshin/gachalog/xlsx/${uid}`)
       .then(response => response.arrayBuffer())
